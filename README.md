@@ -27,7 +27,7 @@
 
 ```yaml
 name: Fernando Alves
-localização: Brasil
+localização: Morrinhos,GO,Brasil
 status: Desenvolvendo projetos incríveis
 foco_atual: ["Web Development", "AI/ML", "DevOps"]
 idiomas: ["Português", "Inglês"]

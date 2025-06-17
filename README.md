@@ -115,9 +115,9 @@ hobbies: ["Gaming", "Leitura", "Música", "Aprender novas tecnologias"]
 
 ```javascript
 const fernando = {
-    café: "☕ Essencial para o funcionamento",
+    café e energetico: "☕ Essencial para o funcionamento",
     música: "🎵 Lo-fi hip hop para concentração",
-    hobbies: ["🎮 Gaming", "📚 Leitura", "🎬 Filmes de ficção científica"],
+    hobbies: ["🎮 Gaming", "🎬 Filmes de ficção científica"],
     moto: "👨‍💻 Code, Learn, Repeat",
     fato_curioso: "🐛 Adoro encontrar e corrigir bugs complexos!",
     objetivo_2025: "🚀 Contribuir mais para projetos open source"

@@ -16,7 +16,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 - 📫 Entre em contato:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoalves)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fernandoalves](https://www.linkedin.com/in/fernando-alves-de-souza-670b6a36b/))
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alvesdesouzafernando728@gmail.com)
 
 <p align="center">

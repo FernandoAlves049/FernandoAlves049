@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Octocat coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="320" alt="VS Code animation" />
 </div>
 
 <div align="center">
@@ -22,6 +22,14 @@
   <a href="https://github.com/FernandoAlves049?tab=repositories">
     <img src="https://img.shields.io/github/stars/FernandoAlves049?style=flat-square&color=yellow" alt="GitHub stars" />
   </a>
+</div>
+
+---
+
+## 🐙 Meu Octocat
+
+<div align="center">
+  <img src="assets/meu-octocat.png" width="240" alt="Meu Octocat personalizado" />
 </div>
 
 ---
@@ -75,11 +83,24 @@ idiomas:
 
 ---
 
+## 🚀 Projeto em destaque
+
+<div align="center">
+  <a href="https://github.com/FernandoAlves049/labirinto_de_creta">
+    <img src="https://img.shields.io/badge/Labirinto%20de%20Creta-Exploração%20com%20JavaScript-4F46E5?style=for-the-badge" alt="Labirinto de Creta" />
+  </a>
+</div>
+
+- **Labirinto de Creta**: jogo web inspirado na mitologia grega, desenvolvido para praticar algoritmos de navegação, estruturação de canvas e integração com assets sonoros.
+
+---
+
 ## 📚 Projetos e estudos recentes
 
 - **Monitoramento de dados com Node.js**: API REST experimental usando Express, MongoDB e Docker Compose.
 - **Aplicativo de agenda acadêmica**: protótipo em React com autenticação e integração a Firebase.
 - **Explorações em IA**: notebooks de experimentos com scikit-learn e modelos de classificação básicos.
+- **Labirinto de Creta**: refino contínuo do jogo, adicionando novos níveis e mecânicas baseadas em feedback de usuários.
 
 > Sempre aberto a feedbacks; veja repositórios fixados ou abra uma issue para conversar.
 

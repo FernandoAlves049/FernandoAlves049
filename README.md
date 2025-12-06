@@ -34,6 +34,22 @@
 
 ---
 
+## 🎧 Completing tasks while hearing music
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ5ODU3NjQsIm5iZiI6MTc2NDk4NTQ2NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA2VDAxNDQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxYjZjZTQ4NjVlNjljNzM0NWVkNzA3NGVmYjc0Y2NkNjhjODZlMjQ4ZWM1OTQyZmNmM2FmNzU0ODY2MzU4NmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vHDvZdtTrfM4N7gZZG0B3lB--N6aO89vHkGmIJ13sxg" width="500" alt="Completing tasks while hearing music" />
+</div>
+
+---
+
+## 🖥️ Focus mode
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" alt="Coding in focus mode" />
+</div>
+
+---
+
 ## 🎯 Sobre mim
 
 ```yaml
